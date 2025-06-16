@@ -1,0 +1,2 @@
+# machine_learning
+Python與資料處理實戰訓練班第01期
