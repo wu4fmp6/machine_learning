@@ -3,3 +3,5 @@ numpy
 openpyxl
 seaborn
 matplotlib
+genai
+langchain
