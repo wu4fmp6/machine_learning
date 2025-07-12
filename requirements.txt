@@ -6,3 +6,4 @@ matplotlib
 genai
 langchain
 langchain_google_genai
+plotly
